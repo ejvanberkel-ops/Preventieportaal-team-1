@@ -13,15 +13,13 @@ als samenwerkingsplatform:
 - Beveiliging en governance instellen (branch protection, CODEOWNERS, secrets)
 - Automatisering met GitHub Actions en deployment naar GitHub Pages
 ## Teamindeling
-- **Team 1**: Andre Koelman, Ben ter Haar, Eric Hollander
-- **Team 2**: Fabian de Jong, Jeroen Eissens, Lisette Mulder
-- **Team 3**: Marc Rekers, Michel Wolvenkamp, Robin van der Vegte (+ Robin van der Vegte 2 als extra)
+- **Team 1**: Eric, Katja, Martijn
+- **Team 2**: Guido, Glenn, Francis
+- **Team 3**: Raymond, Kevin, Daniel, Ingmar
 ## Planning
-1. Opzetten repository en documentatie (Hoofdstuk 1)
-2. Aanmaken Issues en samenwerken via PR’s (Hoofdstuk 2)
-3. Instellen security en governance (Hoofdstuk 3)
-4. Bouwen workflows en deployment naar GitHub Pages (Hoofdstuk 4)
-5. Afronding, reflectie en examenvoorbereiding (Hoofdstuk 5)
+Teamleden: Ben, Lisette, Michel  
+Eerste versie opleveren: eind week 1  
+Review en demo: week 2  
 
 ## Structuur
 - `/docs/` → projectdocumentatie
