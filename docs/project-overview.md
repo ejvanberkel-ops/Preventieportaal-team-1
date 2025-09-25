@@ -12,14 +12,10 @@ als samenwerkingsplatform:
 - Samenwerken via Issues, Pull Requests en Reviews
 - Beveiliging en governance instellen (branch protection, CODEOWNERS, secrets)
 - Automatisering met GitHub Actions en deployment naar GitHub Pages
-## Teamindeling
+## Teamindeling en Planning
 - **Team 1**: Eric, Katja, Martijn
-- **Team 2**: Guido, Glenn, Francis
-- **Team 3**: Raymond, Kevin, Daniel, Ingmar
-## Planning
-Teamleden: Ben, Lisette, Michel  
-Eerste versie opleveren: eind week 1  
-Review en demo: week 2  
+- **Eerste versie opleveren**: eind week 1  
+- **Review en demo**: week 2  
 
 ## Structuur
 - `/docs/` → projectdocumentatie
