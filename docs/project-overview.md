@@ -24,3 +24,6 @@ als samenwerkingsplatform:
   - `style.css` (huisstijl in Achmea-look)
   - `script.js` (interactieve tips)
 - `.github/` → workflows en governance-bestanden
+## Aanvullende doelstelling
+De Preventieportal moet later ook interactieve quizzen bevatten.
+		○ Commit de wijziging (let op: nu commit je in de branch, niet in main).
