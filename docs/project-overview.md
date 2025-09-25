@@ -28,4 +28,3 @@ Review en demo: week 2
   - `style.css` (huisstijl in Achmea-look)
   - `script.js` (interactieve tips)
 - `.github/` → workflows en governance-bestanden
-<img width="912" height="672" alt="image" src="https://github.com/user-attachments/assets/7eb955c9-fbc8-4b00-92ee-8a56b9b93d2c" />
