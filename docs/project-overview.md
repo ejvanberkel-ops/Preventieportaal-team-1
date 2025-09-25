@@ -1,7 +1,7 @@
 # Achmea Preventieportal – Projectoverzicht
 
 ## Doelstelling
-Het doel van de Preventieportal is het aanbieden van tips om brand, inbraak en waterschade te voorkomen.<img width="633" height="60" alt="image" src="https://github.com/user-attachments/assets/53089528-1796-4604-93fc-d95616895b25" />
+Het doel van de Preventieportal is het aanbieden van tips om brand, inbraak en waterschade te voorkomen.
 
 ## Doel
 De Preventieportal is een demo-webapplicatie die klanten en medewerkers voorziet van praktische tips
